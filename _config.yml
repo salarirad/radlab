@@ -35,8 +35,8 @@ plugins:
   - jekyll-feed
 
 
-- name: Jekyll Actions
-  uses: helaili/jekyll-action@2.0.3
+name: Jekyll Actions
+uses: helaili/jekyll-action@2.0.3
 
 
 # Exclude from processing.
