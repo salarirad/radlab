@@ -4,6 +4,6 @@ layout: pdf
 permalink: /resume/
 ---
 
- {% pdf "https://github.com/salarirad/radlab/blob/master/pdfs/class_text_065.pdf" %}
+ {% pdf "/pdfs/class_text_065.pdf" no_link %}
 
 
